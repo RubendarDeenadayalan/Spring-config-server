@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/RubendarDeenadayalan/Spring-config-server/tree/main/test-service
+          uri: https://github.com/RubendarDeenadayalan/Spring-config-server
           search-paths:
           - '*service'
     
